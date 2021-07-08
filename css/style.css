@@ -1,0 +1,204 @@
+body{
+    background-image: url(../img/body1.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 0;
+   
+  
+}
+
+#sec1 .logo1{
+    font-family: 'Luckiest Guy', cursive;
+    
+}
+.icons1{
+    font-size: 60px;
+ 
+}
+
+.icons2 a{
+
+    color: black;
+}
+.icons2 .bx{ 
+    margin: 0px 2px;  
+    background-color: #f8f8f869;
+    height: 50px; 
+    width: 50px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 50%;
+    transition: .5s;
+   
+}
+.icons2 :hover .bx{
+    background-color: #1bdab0;
+}
+
+.nav-item .nav-link{
+    margin: 0px 13px;
+    font-size: 22px;
+   
+}
+.dropdown-item{
+    font-size: 20px;
+    
+}
+
+/* ################################## */
+
+#seco1 .head{
+    font-size: 23px;
+    padding-top: 200px;
+    color: #fbff02 !important;
+}
+
+.head2{
+    color: #b3e2bd !important;
+    font-size: 20px;
+   
+   
+}
+@media only screen and (max-width:750px) {
+    .suc{
+        
+        width: 100%;
+        margin-bottom: 5px;
+    }
+
+    .suc3{
+        width: 100%;
+    }
+
+
+    
+}
+/* ############################# */
+
+/* sec2############################ */
+
+
+@media only screen and (max-width:550px) {
+
+    .row1{
+        width:450px;
+    }
+}
+.row1{
+    box-shadow: 2px 2px 10px #2c2f2f;
+    transition: .5s;
+    
+}
+
+.row1:hover{
+    background-color: rgb(31, 29, 29) !important;
+   
+}
+
+.icn1 .bx{
+    font-size: 70px ;
+    color: rgb(251, 255, 0);
+
+}
+
+/* ################################# */
+/* seco3##################### */
+
+.icn2 .bx{
+    font-size: 70px ;
+    color: #ffffff;
+}
+
+/* seco4######################### */
+
+.card{
+    height: 450px;
+    box-shadow: 2px 2px 10px black;
+}
+
+.bttn1{
+    padding: 10px 120px;
+    font-size: 15px;
+    border-color: #1bdab0 !important;
+    color: #1bdab0;
+    font-weight: bold;
+    
+}
+.bttn1:hover{
+    color: white;
+    background-color: #20a789;
+}
+
+/* ######### seco6 ################ */
+
+.cook{
+    font-size: 80px;
+    color: #F7FF47;
+}
+
+/* /*  #####       seco9  ################### */
+
+
+.bttn2:hover{
+    color: white !important;
+    background-color: #070707;
+}
+
+
+/* ############# FOOTER ############## */
+
+
+.x-icn .bx{ 
+    margin: 0px 2px;  
+    background-color: #070707af;
+    height: 50px; 
+    width: 50px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 50%;
+    transition: .5s;
+
+    color: #fbff13;
+   
+}
+
+.x-icn :hover .bx{
+    background-color: #4504f8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
